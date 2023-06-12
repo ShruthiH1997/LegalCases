@@ -19,3 +19,5 @@ Code to check similarity: FAISS_Sim.ipynb
 For generating fine-tuned model and embeddings,
 
 Practicum_fine_tuning.ipynb => run all cells
+
+Full Unlabeled data: https://docs.google.com/spreadsheets/d/1ZEjpkg5YGbGZWgcECLVVs8Fedk2_2JVF/edit?usp=drive_link&ouid=104738569788929321845&rtpof=true&sd=true
