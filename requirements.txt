@@ -1,0 +1,8 @@
+numpy
+pandas
+nltk
+torch
+sentence-transformers
+openpyxl
+fast-sentence-transformers[gpu]
+onnxruntime-gpu
